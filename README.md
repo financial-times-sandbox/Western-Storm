@@ -1,2 +1,3 @@
 # 🎩 Western-Storm
-## This repository is for testing & development purposes!
+
+> :wave: This repository is for testing & development purposes!
